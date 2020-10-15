@@ -3,7 +3,10 @@ using System.Collections;
 
 
 namespace Queue_app
-{
+{ //Title: Create and Search Queue
+  //Author: Gwen Kalasky
+  //Synopsis: This program creates a queue of random itegers and allows you to search through it for factors of a number
+  //Date: 10/7/20
     class Program
     {
         static void Main(string[] args)
